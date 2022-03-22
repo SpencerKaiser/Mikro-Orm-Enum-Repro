@@ -19,7 +19,7 @@
   resolved "https://registry.yarnpkg.com/@faker-js/faker/-/faker-6.0.0.tgz#b613ebf5f5ebb2ab987afb567d8b7fe860199c13"
   integrity sha512-10zLCKhp3YEmBuko71ivcMoIZcCLXgQVck6aNswX+AWwaek/L8S3yz9i8m3tHigRkcF6F2vI+qtdtyySHK+bGA==
 
-"@mikro-orm/cli@^5.1.0":
+"@mikro-orm/cli@^5.1.1":
   version "5.1.1"
   resolved "https://registry.yarnpkg.com/@mikro-orm/cli/-/cli-5.1.1.tgz#8ac9a79a272928dea9904687d83e63e3070fc47e"
   integrity sha512-XWrYPTYeN+z/MZmUPvUJO0e3+gAHH1dtAotEpWndJBab0LmLJJp5R9bnwRGtzJNxeMVdDHbib5mCyj6RGKFZIA==
@@ -31,7 +31,7 @@
     yargonaut "1.1.4"
     yargs "15.4.1"
 
-"@mikro-orm/core@^5.1.0", "@mikro-orm/core@^5.1.1":
+"@mikro-orm/core@^5.1.1":
   version "5.1.1"
   resolved "https://registry.yarnpkg.com/@mikro-orm/core/-/core-5.1.1.tgz#991eb80341a85c1397d12340d4e8e298b6898ce9"
   integrity sha512-k4rpjwZJxQu5aKeBqPj2Hnvjnivo/GClkuWxX++786lTf7LNspeqeNYa9dl8elzsaWSSzEh0wr06X8JesxNIBw==
@@ -52,7 +52,7 @@
     knex "1.0.4"
     sqlstring "2.3.3"
 
-"@mikro-orm/migrations@^5.1.0":
+"@mikro-orm/migrations@^5.1.1":
   version "5.1.1"
   resolved "https://registry.yarnpkg.com/@mikro-orm/migrations/-/migrations-5.1.1.tgz#f4425614fc91cbe035c28d264c2af23691a6112e"
   integrity sha512-mtk8lcVIap9vkejdXmoZiIE8K4p373Os7cEZcfOYVg6sUpZC21Ac6IMhOobKN0rLU/F5akfgZAQx1CRmGLhJhQ==
@@ -62,7 +62,7 @@
     knex "1.0.4"
     umzug "3.0.0"
 
-"@mikro-orm/postgresql@^5.1.0":
+"@mikro-orm/postgresql@^5.1.1":
   version "5.1.1"
   resolved "https://registry.yarnpkg.com/@mikro-orm/postgresql/-/postgresql-5.1.1.tgz#2a95f73a097a90d3cdfa7e20ae31980c1eb06c9f"
   integrity sha512-p/JiaC4MEE0EPLF7N91mxCgtE1q4f20QomGRs07ssuSOHO4yn277eGHbM/0MIkEBC3xih03/yrY4doY3fe5b0g==
@@ -70,7 +70,7 @@
     "@mikro-orm/knex" "^5.1.1"
     pg "8.7.3"
 
-"@mikro-orm/seeder@^5.1.0":
+"@mikro-orm/seeder@^5.1.1":
   version "5.1.1"
   resolved "https://registry.yarnpkg.com/@mikro-orm/seeder/-/seeder-5.1.1.tgz#5330f6de2fcba2fc6b553f94663d0890fa72fc63"
   integrity sha512-/UU6fiBbJHvIxE9zfoSWMVx13tvzA+rIhVDZt5zFo3CQdBX5AH6852RizSQi271w6J+JMmZEk9pJqDvCFgwE2Q==
